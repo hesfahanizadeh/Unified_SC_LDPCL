@@ -1,5 +1,5 @@
 /*****************************************/
-/* Target: Calcualte A_\kappa                         */
+/* Target: Calcualte A_\kappa for non-iso matrices enum for gamma=3*/
 /* By: Eshed Ram (eshed.ram@gmail.com)                */
 /* Update: 09/14/2021                                 */
 /*****************************************/
