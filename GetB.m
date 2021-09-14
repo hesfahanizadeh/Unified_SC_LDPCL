@@ -1,3 +1,8 @@
+/*****************************************/
+/* Target: Calcualte B_\kappa for non-iso matrices enum for gamma=3*/
+/* By: Eshed Ram (eshed.ram@gmail.com)                */
+/* Update: 09/14/2021                                 */
+/*****************************************/
 function B = GetB(kappa)
 
 i = 0:floor(kappa/2);

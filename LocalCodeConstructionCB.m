@@ -5,7 +5,7 @@ p = 157;
 % erased circulants
 nu = 12; 
 %% create codes
-% Unbalnced partition
+% Unbalanced partition
 B = ones(gamma,kappa); %CC are irelevant
 B(gamma_c+1,end-nu+1:end) = 0;
 H = CBlift(B,p);
