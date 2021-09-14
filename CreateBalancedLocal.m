@@ -1,3 +1,12 @@
+/*****************************************/
+
+/* Target: Implementation of the balanced construction*/
+
+/* By: Eshed Ram (eshed.ram@gmail.com)                */
+
+/* Update: 09/14/2021                                 */
+
+/*****************************************/
 function H_L = CreateBalancedLocal(gamma_l,kappa,nu)
 if(nu<0 || nu>=kappa)
     error('Invalid values for nu and kappa');
