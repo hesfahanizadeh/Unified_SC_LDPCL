@@ -1,11 +1,7 @@
 /*****************************************/
-
 /* Target: Circulant-base lifting of a protograph     */
-
 /* By: Eshed Ram (eshed.ram@gmail.com)                */
-
 /* Update: 09/14/2021                                 */
-
 /*****************************************/
 function [H,a,b]=CBlift(ProtoH,p)
 %Circulant-Based lifting
